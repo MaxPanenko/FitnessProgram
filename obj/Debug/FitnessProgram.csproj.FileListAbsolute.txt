@@ -1,0 +1,11 @@
+C:\Users\Kero\source\repos\FitnessProgram\bin\Debug\FitnessProgram.exe.config
+C:\Users\Kero\source\repos\FitnessProgram\bin\Debug\FitnessProgram.exe
+C:\Users\Kero\source\repos\FitnessProgram\bin\Debug\FitnessProgram.pdb
+C:\Users\Kero\source\repos\FitnessProgram\bin\Debug\KeroFitness.BL.dll
+C:\Users\Kero\source\repos\FitnessProgram\bin\Debug\KeroFitness.BL.pdb
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.csproj.AssemblyReference.cache
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.csproj.CoreCompileInputs.cache
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.csproj.CopyComplete
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.exe
+C:\Users\Kero\source\repos\FitnessProgram\obj\Debug\FitnessProgram.pdb
