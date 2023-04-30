@@ -1,0 +1,17 @@
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\KeroFitness.BLTests.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\KeroFitness.BLTests.pdb
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\KeroFitness.BL.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\KeroFitness.BL.pdb
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kero\source\repos\KeroFitness.BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kero\source\repos\KeroFitness.BLTests\obj\Debug\KeroFitness.BLTests.csproj.AssemblyReference.cache
+C:\Users\Kero\source\repos\KeroFitness.BLTests\obj\Debug\KeroFitness.BLTests.csproj.CoreCompileInputs.cache
+C:\Users\Kero\source\repos\KeroFitness.BLTests\obj\Debug\KeroFitness.BLTests.csproj.CopyComplete
+C:\Users\Kero\source\repos\KeroFitness.BLTests\obj\Debug\KeroFitness.BLTests.dll
+C:\Users\Kero\source\repos\KeroFitness.BLTests\obj\Debug\KeroFitness.BLTests.pdb
